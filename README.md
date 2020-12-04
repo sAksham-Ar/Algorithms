@@ -1,2 +1,2 @@
 # Algorithms
-Some useful C++ algorithms written by me.
+Some useful algorithms written by me.
